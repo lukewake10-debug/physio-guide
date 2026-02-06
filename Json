@@ -1,9 +1,0 @@
-{
-  "name": "physio-guide",
-  "private": true,
-  "version": "1.0.0",
-  "scripts": {
-    "build": "node build.js",
-    "start": "node server.js"
-  }
-}
